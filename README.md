@@ -26,4 +26,9 @@ Example:
 - **Training:** Fine-tuned; handles missing labels with masks  
 
 ---
+Loss
+![](https://github.com/amit-sharma-ds/resnet-multilabel/blob/main/img/Loss.png)
 
+---
+Deployment & Prediction
+![](https://github.com/amit-sharma-ds/resnet-multilabel/blob/main/img/deployment%26prediction.png)
