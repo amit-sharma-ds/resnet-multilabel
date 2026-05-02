@@ -1,4 +1,4 @@
-# MultilabelResNe
+# MultilabelResN
 
 This project is a **multilabel image classification model** using PyTorch and ResNet18.  
 It predicts **4 attributes per image** from a dataset of 972 images, handling missing labels (`NA`) and class imbalance.
